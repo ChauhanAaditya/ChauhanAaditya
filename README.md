@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **RAG pipelines**
 
-- 🌱 I’m currently learning **GENAI and Rag**
+- 🌱 I’m currently learning **GENAI and RAG**
 
 - 👯 I’m looking to collaborate on **GEN AI**
 
